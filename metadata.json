@@ -1,0 +1,8 @@
+{
+  "name": "AIR Practice Institute",
+  "description": "AIR Practice Institute — 12th Maharashtra State Board & MHT-CET PCMB Practice Platform. Textbook, Short Notes, Questions, PYQ Papers, and Topic-Wise Practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
